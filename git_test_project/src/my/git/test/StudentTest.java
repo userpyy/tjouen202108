@@ -9,7 +9,8 @@ public class StudentTest {
 		Student st = new Student("하하", 40);
 		System.out.println(st);
 		
-		
+		Student st1 = new Student("유재석", 50);
+		System.out.println(st1);
 		
 		
 		
